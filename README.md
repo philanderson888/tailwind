@@ -12,7 +12,7 @@
 https://tailwindcss.com/docs/installation
 
 ```js
-npm install -D tailwindcss
+npm install -D tailwindcss1
 npx tailwindcss init
 ```
 
